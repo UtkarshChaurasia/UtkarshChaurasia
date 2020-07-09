@@ -1,9 +1,7 @@
 ### 👋 ✨ Hi, I'm Utkarsh Chaurasia.
 
 
-I'm a 3rd-year undergrad at SRM University, Chennai pursuaing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a Machine Learning and Data Science practioner. I'm a competitve coder too. I also write blogs on various technical topics.
-
-
+I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a Machine Learning and Data Science practioner. I'm a competitve coder too. I also write blogs on various technical topics.
 
 - 🔭 I’m currently working on Machine Learning and Data Science.
 - 🌱 I’m currently learning MERN Stack Development.
