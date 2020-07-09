@@ -12,6 +12,6 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I started learning JAVA from my 9th std, worked a lot with Python(and still working) but I use C++ for Competitive Coding.
     
-    📝[MY BLOGS](https://medium.com/@utkarsh103b)
+    📝[MY BLOGS](https://medium.com/@utkarsh103b) • 
  	🔗[Linkedin](https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/)
 
