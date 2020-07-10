@@ -21,10 +21,18 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 
 
 ## 👯 Communities
--Project Admin and Mentor at [Student Code-In](https://scodein.tech/), an opensource event.
--Machine Learning member at [Data Science Community SRM](https://dscommunity.in/).
--Community Executive at [Machine Intelligence Community](https://srm-mic.in/).
--Technical Team Member at [CSE Association SRM](https://www.linkedin.com/company/cse-association-srm/).
+-Project Admin and Mentor at Student Code-In.<a href="https://scodein.tech/">
+    <img src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/sci.jpeg" >
+  </a>
+-Machine Learning member at Data Science Community SRM.<a href="https://dscommunity.in/">
+    <img src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/dsc.jpeg" >
+  </a>
+-Community Executive at Machine Intelligence Community.<a href="https://srm-mic.in/">
+    <img src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/mic.png" >
+  </a>
+-Technical Team Member at CSE Association SRM.<a href="https://www.linkedin.com/company/cse-association-srm/">
+    <img src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/csea.jpeg" >
+  </a>
 
 
 
