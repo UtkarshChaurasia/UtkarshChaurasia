@@ -1,4 +1,4 @@
-### 👋 ✨ Hi, I'm Utkarsh Chaurasia.
+### 👋 ✨ Hi, I'm Utkarsh Chaurasia.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a **Machine Learning** and **Data Science practioner**. I'm a **competitve coder** too. I also write blogs on various technical topics.
@@ -12,7 +12,7 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I started learning JAVA from my 9th std, worked a lot with Python(and still working) but I use C++ for Competitive Coding.
 
-[Utkarsh Chaurasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&hide_border=true)
+![Utkarsh Chaurasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&hide_border=true)
     
     📝[MY BLOGS](https://medium.com/@utkarsh103b) • 
  	🔗[Linkedin](https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/)
