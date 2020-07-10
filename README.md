@@ -11,6 +11,8 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 - 📫 How to reach me: utkarsh103b@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I started learning JAVA from my 9th std, worked a lot with Python(and still working) but I use C++ for Competitive Coding.
+
+[Utkarsh Chaurasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&hide_border=true)
     
     📝[MY BLOGS](https://medium.com/@utkarsh103b) • 
  	🔗[Linkedin](https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/)
