@@ -31,7 +31,7 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
     <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/dsc.jpeg" >
   </a>
 - Community Executive at Machine Intelligence Community.<a href="https://srm-mic.in/">
-    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/mic.png" >
+    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/mic2.png" >
   </a>
 - Technical Team Member at CSE Association SRM.<a href="https://www.linkedin.com/company/cse-association-srm/">
     <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/csea.jpeg" >
@@ -47,5 +47,9 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
   
   <a href="https://medium.com/@utkarsh103b">
     <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
+  </a>
+  
+  <a href="https://www.instagram.com/utkarsh_chaurasia.12/?hl=en">
+    <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
   </a>
 
