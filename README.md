@@ -20,19 +20,22 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 - ⚡ Fun fact: I started learning JAVA from my 9th std, worked a lot with Python(and still working) but I use C++ for Competitive Coding.
 
 
-## 👯 Communities
--Project Admin and Mentor at Student Code-In.<a href="https://scodein.tech/">
-    <img width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/sci.jpeg" >
-  </a></br>
--Machine Learning member at Data Science Community SRM.<a href="https://dscommunity.in/">
-    <img width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/dsc.jpeg" >
-  </a></br>
--Community Executive at Machine Intelligence Community.<a href="https://srm-mic.in/">
-    <img width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/mic.png" >
-  </a></br>
--Technical Team Member at CSE Association SRM.<a href="https://www.linkedin.com/company/cse-association-srm/">
-    <img width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/csea.jpeg" >
-  </a></br>
+## 👯 Experience
+
+
+
+- Project Admin and Mentor at Student Code-In.<a href="https://scodein.tech/">
+    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/sci.jpeg" >
+  </a>
+- Machine Learning member at Data Science Community SRM.<a href="https://dscommunity.in/">
+    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/dsc.jpeg" >
+  </a>
+- Community Executive at Machine Intelligence Community.<a href="https://srm-mic.in/">
+    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/mic.png" >
+  </a>
+- Technical Team Member at CSE Association SRM.<a href="https://www.linkedin.com/company/cse-association-srm/">
+    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/csea.jpeg" >
+  </a>
 
 
 
