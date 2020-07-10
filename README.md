@@ -15,6 +15,6 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 ![Utkarsh Chaurasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&hide_border=true)
     
 <a href="https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/">
-    <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
   </a>
 
