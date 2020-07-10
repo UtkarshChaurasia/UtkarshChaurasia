@@ -1,6 +1,6 @@
 
 # Utkarsh Chaurasia.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<p align="center"><img width=100px src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif"></p>
+<p align="left"><img width=200px src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif"></p>
 
 ## 🧐 About
 
