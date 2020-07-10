@@ -17,4 +17,8 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 <a href="https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/">
     <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
   </a>
+  
+  <a href="https://medium.com/@utkarsh103b">
+    <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
+  </a>
 
