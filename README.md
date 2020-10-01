@@ -41,20 +41,17 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 
 ![Utkarsh Chaurasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&hide_border=true)
 <p valign="middle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshChaurasia&theme=material-palenight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshChaurasia&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
 </p>
 
 <p valign="middle" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&line_height=24&theme=material-palenight&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 </p>
     
 <a href="https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/">
     <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
   </a>
   
-  <p valign="middle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=UtkarshChaurasia&theme=material-palenight&card_width=445&custom_title=%23%20Wakatime%20Weekly%20Stats%20📊" />
-</p>
   
   <a href="https://medium.com/@utkarsh103b">
     <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
