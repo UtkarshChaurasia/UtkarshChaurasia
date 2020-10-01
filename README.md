@@ -1,5 +1,5 @@
 
-# Utkarsh Chaurasia.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<body bgcolor="black"># Utkarsh Chaurasia.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <p align="left"><img width=200px src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif"></p>
 
 ## 🧐 About
@@ -39,11 +39,6 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 
 
 
-![Utkarsh Chaurasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&hide_border=true)
-<p valign="middle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshChaurasia&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
-</p>
-
 <p valign="middle" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 </p>
@@ -60,4 +55,4 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
   <a href="https://www.instagram.com/utkarsh_chaurasia.12/?hl=en">
     <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
   </a>
-
+</body>
