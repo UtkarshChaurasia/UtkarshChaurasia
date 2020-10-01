@@ -1,5 +1,4 @@
-
-<body bgcolor="black"># Utkarsh Chaurasia.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Utkarsh Chaurasia.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <p align="left"><img width=200px src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif"></p>
 
 ## 🧐 About
@@ -55,4 +54,3 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
   <a href="https://www.instagram.com/utkarsh_chaurasia.12/?hl=en">
     <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
   </a>
-</body>
