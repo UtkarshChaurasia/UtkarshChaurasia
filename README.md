@@ -10,7 +10,7 @@
 I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a **Machine Learning** and **Data Science practioner**. I'm a **competitve coder** too. I also write blogs on various technical topics.
 
 - 🔭 I’m currently working on Machine Learning and Data Science.
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Flutter Development.
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning, Data Science Projects.
 - 🤔 I’m looking for internships in the field of Machine Learning, Deep Learning, Data Science.
 - 💬 Open for discussion on any Tech Stack(motive is to expand my knowledge). 
@@ -19,22 +19,14 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 - ⚡ Fun fact: I started learning JAVA from my 9th std, worked a lot with Python(and still working) but I use C++ for Competitive Coding.
 
 
-## 👯 Experience
+## 👯 Tech Stack
+
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 
 
-- Project Admin and Mentor at Student Code-In.<a href="https://scodein.tech/">
-    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/sci.jpeg" >
-  </a>
-- Machine Learning member at Data Science Community SRM.<a href="https://dscommunity.in/">
-    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/dsc.jpeg" >
-  </a>
-- Community Executive at Machine Intelligence Community.<a href="https://srm-mic.in/">
-    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/mic2.png" >
-  </a>
-- Technical Team Member at CSE Association SRM.<a href="https://www.linkedin.com/company/cse-association-srm/">
-    <img width="34px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/csea.jpeg" >
-  </a>
+
 
 
 
