@@ -44,6 +44,9 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshChaurasia&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
 
+<br><br>
+
+## 💬 Let's Connect
     
 <a href="https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/">
     <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
