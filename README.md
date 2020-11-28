@@ -17,7 +17,7 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 - 📫 How to reach me: utkarsh103b@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I started learning JAVA from my 9th std, worked a lot with Python(and still working) but I use C++ for Competitive Coding.
-
+<br><br>
 
 ## 👯 Tech Stack
 
@@ -31,7 +31,8 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br>
+<br><br>
+
 ## 📈 Stats
 
 <br>
