@@ -13,7 +13,7 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 - 🌱 I’m currently learning Flutter Development.
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning, Data Science Projects.
 - 🤔 I’m looking for internships in the field of Machine Learning, Deep Learning, Data Science.
-- 💬 Open for discussion on any Tech Stack(motive is to expand my knowledge). 
+- 💬 Open for discussion on any Tech Stack(motive is exchange of knowledge). 
 - 📫 How to reach me: utkarsh103b@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I started learning JAVA from my 9th std, worked a lot with Python(and still working) but I use C++ for Competitive Coding.
