@@ -36,8 +36,11 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 
 ## 📈 Stats
 
-<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=UtkarshChurasia)](https://github.com/UtkarshChurasia/github-profile-trophy)
+
+<br>
+
 
   <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" /> </a>
 
