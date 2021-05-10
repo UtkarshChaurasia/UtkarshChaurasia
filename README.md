@@ -7,12 +7,11 @@
 ### 👋 ✨ Hi, I'm Utkarsh Chaurasia.
 
 
-I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a **Machine Learning** and **Data Science practioner**. I'm a **competitve coder** too. I also write blogs on various technical topics.
+I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a **Competitive Coder**, **Web Developer**, **Flutter App Developer** and **Machine Learning Practioner**. I'm a **competitve coder** too. I also write blogs on various technical topics.
 
-- 🔭 I’m currently working on Machine Learning and Data Science.
-- 🌱 I’m currently learning Flutter Development.
-- 👯 I’m looking to collaborate on Machine Learning, Deep Learning, Data Science Projects.
-- 🤔 I’m looking for internships in the field of Machine Learning, Deep Learning, Data Science.
+- 🔭 I develop full stack applications using React and Django.
+- 🌱 I develop cross platform mobile apps using Flutter.
+- 👯 If you want a web application or a mobile app for your business idea or startup, then I can help you.
 - 💬 Open for discussion on any Tech Stack(motive is exchange of knowledge). 
 - 📫 How to reach me: utkarsh103b@gmail.com
 - 😄 Pronouns: He/Him.
@@ -23,8 +22,10 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
 
 <br>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
+
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/django-icon.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>  
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
