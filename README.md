@@ -7,7 +7,7 @@
 ### 👋 ✨ Hi, I'm Utkarsh Chaurasia.
 
 
-I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a **Competitive Coder**, **Web Developer**, **Flutter App Developer** and **Machine Learning Practioner**. I'm a **competitve coder** too. I also write blogs on various technical topics.
+I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a **Competitive Coder**, **Web Developer**, **Flutter App Developer** and **Machine Learning Practioner**. I also write blogs on various technical topics.
 
 - 🔭 I develop full stack applications using React and Django.
 - 🌱 I develop cross platform mobile apps using Flutter.
