@@ -44,8 +44,8 @@ I'm a 3rd-year undergrad at SRM University, Chennai pursuing B.Tech in Computer 
   <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" /> </a>
 
 <br>
+<a> <img align="left" src="https://ionicabizau.github.io/github-profile-languages/api.html?utkarshchaurasia" /> </a>
 
- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?utkarshchaurasia" frameborder="0"></iframe>
 
 <br><br>
 
