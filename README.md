@@ -44,8 +44,9 @@ I'm a final year undergrad at SRM University, Chennai pursuing B.Tech in Compute
   <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshChaurasia&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" /> </a>
 
 
-<a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshChaurasia&hide=jupyter notebook&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" /></a>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshChaurasia&hide=jupyter notebook&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br><br>
