@@ -21,7 +21,7 @@ I'm a final year undergrad at SRM University, Chennai pursuing B.Tech in Compute
 ## ⚔️ Tech Stack
 
 <br>
-<code><img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/go.svg"></code>
+<code><img height="30" src="https://github.com/gilbarbara/logos/blob/master/logos/go.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg"></code>
     <code><img height="50" src="https://github.com/jhipster/jhipster.github.io/blob/master/images/logo/svg/spring-boot.svg"></code>
     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/django-icon.svg"></code>
