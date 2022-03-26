@@ -21,7 +21,7 @@ I'm a final year undergrad at SRM University, Chennai pursuing B.Tech in Compute
 ## ⚔️ Tech Stack
 
 <br>
-<code><img height="30" src="https://github.com/gilbarbara/logos/blob/master/logos/go.svg"></code>
+
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg"></code>
     <code><img height="50" src="https://github.com/jhipster/jhipster.github.io/blob/master/images/logo/svg/spring-boot.svg"></code>
     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/django-icon.svg"></code>
@@ -30,11 +30,12 @@ I'm a final year undergrad at SRM University, Chennai pursuing B.Tech in Compute
     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
-   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/openshift.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+   <code><img height="30" src="https://github.com/gilbarbara/logos/blob/master/logos/go.svg"></code>
 
 <br><br>
 
