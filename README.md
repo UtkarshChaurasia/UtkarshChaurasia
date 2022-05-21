@@ -67,6 +67,10 @@ I'm a final year undergrad at SRM University, Chennai pursuing B.Tech in Compute
     <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
   </a>
   
+  <a href="https://twitter.com/iamuc12?t=cq_s1SIbFxriEQQNnRhV7g&s=09">
+    <img align="left" alt="Utkarsh Chaurasia | Twitter" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/twitter.svg" />
+  </a>
+  
   <a href="https://www.instagram.com/utkarsh_chaurasia.12/?hl=en">
     <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
   </a>
